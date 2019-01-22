@@ -4,3 +4,5 @@ NLTK or The Natural Language Toolkit, is a platform used for building Python pro
 To install NLTK run: sudo pip install -U nltk
 or: pip install nltk -user
 or: pip install nltk
+
+inspired by https://www.nltk.org/book/ch01.html
